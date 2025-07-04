@@ -1,1 +1,2 @@
 # monad
+# testnet ZAMA
